@@ -1,0 +1,13 @@
+E:\software\rust\tp-201\kvs\target\debug\deps\libquote-16a86b57a3dfbeec.rmeta: D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src/lib.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ext.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\format.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ident_fragment.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\to_tokens.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\runtime.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\spanned.rs
+
+E:\software\rust\tp-201\kvs\target\debug\deps\libquote-16a86b57a3dfbeec.rlib: D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src/lib.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ext.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\format.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ident_fragment.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\to_tokens.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\runtime.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\spanned.rs
+
+E:\software\rust\tp-201\kvs\target\debug\deps\quote-16a86b57a3dfbeec.d: D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src/lib.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ext.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\format.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ident_fragment.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\to_tokens.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\runtime.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\spanned.rs
+
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src/lib.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ext.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\format.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\ident_fragment.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\to_tokens.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\runtime.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\quote-1.0.38\src\spanned.rs:

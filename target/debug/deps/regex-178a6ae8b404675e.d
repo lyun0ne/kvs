@@ -1,0 +1,15 @@
+E:\software\rust\tp-201\kvs\target\debug\deps\libregex-178a6ae8b404675e.rmeta: D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src/lib.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\builders.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\bytes.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\error.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\find_byte.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\mod.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\bytes.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\string.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\mod.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\bytes.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\string.rs
+
+E:\software\rust\tp-201\kvs\target\debug\deps\regex-178a6ae8b404675e.d: D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src/lib.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\builders.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\bytes.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\error.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\find_byte.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\mod.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\bytes.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\string.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\mod.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\bytes.rs D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\string.rs
+
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src/lib.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\builders.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\bytes.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\error.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\find_byte.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\mod.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\bytes.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regex\string.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\mod.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\bytes.rs:
+D:\dev\rust\.cargo\registry\src\rsproxy.cn-8f6827c7555bfaf8\regex-1.11.1\src\regexset\string.rs:
